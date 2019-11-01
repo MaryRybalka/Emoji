@@ -19,7 +19,7 @@ emojies can be described in following codes:
 | 😳    |  U+1F633 | 11110000 10011111 10011000 10110011 | 4 byte |
 | 😂    |  U+1F602 | 11110000 10011111 10011000 10000010 | 4 byte |
 
-##References:
+## References:
  - https://en.wikipedia.org/wiki/UTF-8
  - https://emojio.ru/smileys-people/d83dde05-1f605-nervnyy-smeh.html
  - https://emojio.ru/smileys-people/d83dde02-1f602-smeh-do-slez.html
