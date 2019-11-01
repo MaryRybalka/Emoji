@@ -13,13 +13,13 @@ emojies can be described in following codes:
 
 | Emoji | Unicode | Binary | Number of bytes |
 | ----------- | ----------- | ----------- | ----------- |
-| ☺ | U+263A | 11100010 10011000 10111010 | 3 byte |
-| 😅  | U+1F605 | 11110000 10011111 10011000 10000101 | 4 byte |
-| 👌  |  U+1F44C | 11110000 10011111 10010001 10001100 | 4 byte |
-| 😳 |  U+1F633 | 11110000 10011111 10011000 10110011 | 4 byte |
-| 😂 |  U+1F602 | 11110000 10011111 10011000 10000010 | 4 byte |
+| ☺️ | U+263A | 11100010 10011000 10111010 | 3 byte |
+| 😅    | U+1F605 | 11110000 10011111 10011000 10000101 | 4 byte |
+| 👌    |  U+1F44C | 11110000 10011111 10010001 10001100 | 4 byte |
+| 😳    |  U+1F633 | 11110000 10011111 10011000 10110011 | 4 byte |
+| 😂    |  U+1F602 | 11110000 10011111 10011000 10000010 | 4 byte |
 
-###References:
+##References:
  - https://en.wikipedia.org/wiki/UTF-8
  - https://emojio.ru/smileys-people/d83dde05-1f605-nervnyy-smeh.html
  - https://emojio.ru/smileys-people/d83dde02-1f602-smeh-do-slez.html
